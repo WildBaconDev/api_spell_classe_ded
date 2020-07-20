@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2723657-5f4d-4974-bec6-861c856c1d71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MovieBot/actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieBot/actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieBot/assistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieBot/assistant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieBot/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieBot/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieBot/movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieBot/movies.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1exy3zDeGwgZNPdiX58NM8Ortml" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\blizz\estudos\github\ddspells" />
+      <recent name="C:\Users\blizz\estudos\github\ddspells\spell" />
+      <recent name="C:\Users\blizz\estudos\github\ddspells\rest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\blizz\estudos\github\ddspells\classe" />
+      <recent name="C:\Users\blizz\estudos\github" />
+      <recent name="C:\Users\blizz\estudos\github\ddspells\spell" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2723657-5f4d-4974-bec6-861c856c1d71" name="Default Changelist" comment="" />
+      <created>1595277344054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595277344054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1595283962033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595283962033" />
+    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1595280277644">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="258" width="585" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1595280277644" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1595284084968">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1595284084968" />
+  </component>
+</project>

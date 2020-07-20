@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from spell import spell
 from classe import classe
@@ -26,3 +27,8 @@ def get_lista_spells_por_classe(classe):
 @app.route("/listaClasse/", methods=['GET'])
 def get_lista_classe():
     return classe.classe()
+
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)

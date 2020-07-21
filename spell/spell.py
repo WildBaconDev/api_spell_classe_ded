@@ -931,7 +931,7 @@ def spells_por_classe(classe):
     if classe is None:
         raise Exception("Classe obrigatória para consulta.")
 
-    return formatar_retorno(__spellByClass[classe])
+    return formatar_retorno(__spellByClass[classe.lower()])
 
 
 def spells():
@@ -946,7 +946,7 @@ def spells():
 
 def spell_especifica(spell_name):
     logger.info("spell_especifica - " + spell_name)
-    if spell_name in  spells():
-        return "Descrição da magia " + spell_name + ".(Descrição teste)"
+    if spell_name.lower() in spells().lower():
+        return json.dumps("Descrição da magia " + spell_name + ".(Descrição teste)", ensure_ascii=False)
 
-    return "Magia não encontrada"
+    return json.dumps("Magia não encontrada", ensure_ascii=False)

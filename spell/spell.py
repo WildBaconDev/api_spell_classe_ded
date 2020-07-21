@@ -2,7 +2,8 @@ import copy
 import json
 import logging
 
-logger = logging.getLogger('Spells')
+logger = logging.getLogger("SpellService")
+
 
 __spellByClass = {"bardo": [
     "amizade",
@@ -941,3 +942,11 @@ def spells():
         lista_formatada += spells_por_classe(chave)
 
     return lista_formatada
+
+
+def spell_especifica(spell_name):
+    logger.info("spell_especifica - " + spell_name)
+    if spell_name in  spells():
+        return "Descrição da magia " + spell_name + ".(Descrição teste)"
+
+    return "Magia não encontrada"

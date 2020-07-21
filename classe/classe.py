@@ -1,5 +1,6 @@
 from spell import spell
 import logging
+import json
 
 logger = logging.getLogger('Classe')
 
@@ -11,4 +12,4 @@ def classe():
 
     logger.info(classes)
 
-    return classes
+    return json.dumps(classes)

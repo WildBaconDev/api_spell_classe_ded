@@ -941,7 +941,7 @@ def spells():
     for chave in lista_copy.keys():
         lista_formatada += spells_por_classe(chave)
 
-    return lista_formatada
+    return json.dumps(lista_formatada[:1000] + "...", ensure_ascii=False)
 
 
 def spell_especifica(spell_name):
